@@ -1,4 +1,4 @@
-let name = "AkhtarDev";
+let name = "AtiqueAkhtar";
 let nameArr = name.split("");
 console.log(nameArr);
 name = nameArr.join("");
