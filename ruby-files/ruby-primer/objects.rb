@@ -8,6 +8,9 @@ class MyClass
     def method3
         return 'instance method3'
     end
+    def self.method4
+        return 'instance method4'
+    end
 end
 
 obj1 = MyClass.new
