@@ -10,5 +10,6 @@ class MyClass
     end
 end
 
-obj = MyClass.new
-obj.method2
+obj1 = MyClass.new
+obj1.method2
+MyClass.method1
