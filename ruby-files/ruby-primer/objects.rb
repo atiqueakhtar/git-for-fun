@@ -5,4 +5,8 @@ class MyClass
     def method2
         puts 'instance method'
     end
+    def method3
+        return 'instance method3'
+    end
 end
+
