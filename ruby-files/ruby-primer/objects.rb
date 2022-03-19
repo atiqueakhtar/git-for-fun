@@ -6,3 +6,6 @@ class MyClass
         puts 'instance method'
     end
 end
+
+obj = MyClass.new
+obj.method2
