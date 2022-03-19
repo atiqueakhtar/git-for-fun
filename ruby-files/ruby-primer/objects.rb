@@ -17,4 +17,4 @@ obj1 = MyClass.new
 obj1.method2
 obj1.method3
 MyClass.method1
-MyClass.method3
+MyClass.method4
