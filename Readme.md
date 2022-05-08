@@ -2,3 +2,6 @@
 This is the code you need to align images to the left: <br />
 This is the code you need to align images to the left: <br />
 This is the code you need to align images to the left: <br />
+This is the code you need to align images to the left: <br />
+This is the code you need to align images to the left: <br />
+This is the code you need to align images to the left: <br />
